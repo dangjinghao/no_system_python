@@ -43,4 +43,6 @@ function exec_pip(){
 }
 
 alias python="exec_py"
+alias python3="exec_py"
 alias pip="exec_pip"
+alias pip3="exec_pip"
